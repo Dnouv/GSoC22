@@ -1,15 +1,25 @@
-# 🦄 Rocket Chat for Virtual Conferences 
+<div align="center">
+
+[<img alt="alt_text" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />](https://github.com/RocketChat/RC4Conferences)
+
+</div>
+
+# 🦄 Rocket Chat for Virtual Conferences 🦄
 Hello, there! This repo is dedicated for final work report submission for the Google Summer of Code - 2022. And would give a brief overview of all the PRs, issues and also the various featured implemented during this season.
 
-## More about Rocket Chat for Virtual Conferences [RC4Conferences] 😮
-An open source scaled virtual conferences creation, management, and operation system. It aims to enable online communities to easily run and host virtual events of any size. Built over contemporary ReactJS components with full stack behaviors, powered by NextJS. This project leverages FOSS Asia's excellent open source Event-yay server backend for conference creation and management. For day of conference operations, this project leverage open source Jitsi video's broadcast capability to an RTMP-forest for scaled consumption while embedded Rocket.Chat enables attendees and speakers to mingle and collaborate freely – with full persistent chat history.
-
-### Links to the deployed demo website
+## 🖇️Links to the deployed demo website🖇️
 1. [HomePage](https://conf.rceng.shop)
 2. [Demo Day Event](https://conf.rceng.shop/conferences/c/1)
 
-### Pull Reuqests
+<!-- ![](https://github.githubassets.com/images/modules/logos_page/Octocat.png) -->
+
+
+## 🚀 More about Rocket Chat for Virtual Conferences [RC4Conferences] 😮
+An open source scaled virtual conferences creation, management, and operation system. It aims to enable online communities to easily run and host virtual events of any size. Built over contemporary ReactJS components with full stack behaviors, powered by NextJS. This project leverages FOSS Asia's excellent open source Event-yay server backend for conference creation and management. For day of conference operations, this project leverage open source Jitsi video's broadcast capability to an RTMP-forest for scaled consumption while embedded Rocket.Chat enables attendees and speakers to mingle and collaborate freely – with full persistent chat history.
+
 <div align="center">
+
+## 💡Pull Reuqests💡
 
 | #  | PR short description | Is merged? |
 | :-------------: | ------------- | :---------: |
@@ -34,9 +44,11 @@ An open source scaled virtual conferences creation, management, and operation sy
 | [#38](https://github.com/RocketChat/RC4Conferences/pull/38)   | Publish an script to handle closing the dev environment gracefully, and cleanup all the running processes, and fix the docker error loops | ✅ |
 | [#41](https://github.com/RocketChat/RC4Conferences/pull/41)   | Add data init script and functions to initialize the Open Event Server with some dummy event data  | ✅ |
 | [#43](https://github.com/RocketChat/RC4Conferences/pull/43)   | Add Google OAuth in place of the legacy RocketChat OAuth  | ✅ |
-| | | | 
+----
 
 </div>
+
+<br />
 
 <div align="center">
 
@@ -46,14 +58,15 @@ An open source scaled virtual conferences creation, management, and operation sy
 | [#4](https://github.com/RocketChat/RC4Conferences/pull/4)   | Implement the required base work for developing the project as an npm package | ⛔ |
 | [#3](https://github.com/RocketChat/RC4Conferences/pull/3)   | Implement the required base work for developing the project as an Git Submodule | ⛔ |
 | [#44](https://github.com/RocketChat/RC4Conferences/pull/44)   | Add Youtube Iconbutton in the session | ⛔ |
-| | | | 
+----
 
 
 
 </div>
 
-### Issues
 <div align="center">
+
+## 🤺 Issues 🤺
 
 | #  | Issue short description | Is it accomplished? |
 | :-------------: | ------------- | :---------: |
@@ -69,5 +82,42 @@ An open source scaled virtual conferences creation, management, and operation sy
 | [#39](https://github.com/RocketChat/RC4Conferences/issues/39)   | Improve the development environment start script | ✅ |
 | [#40](https://github.com/RocketChat/RC4Conferences/issues/40)   | Make the Day of Event Pages Responsive for different screens | ✅ |
 | [#42](https://github.com/RocketChat/RC4Conferences/issues/42)   | Replace existing auth components with Google OAuth, GitHub OAuth | Partially accomplished |
-| | | | 
+----
 </div>
+
+## 📹 Some Feature Demo Clips 📹
+
+### Creaating a Event
+All the data recieved from the Event basic details form are used for mutating the Open Event Server with Event Details.
+
+### Admin Dashboard
+A walkthrough of the options available on the Admin Dashboard.
+
+### Event Display Poster Page
+Features available on the Event Poster page, with many different tabs viz. About, Sessions, and Speakers.
+
+### Demo of Role based access to different day of event pages
+As shown in demo a not signed in user won't be able to access either the __Mainstage__ or __Greenroom__ page.
+
+### Demo of the Speaker Greenroom Page and the Mainstage page
+Demo includes how an Admin starts the live stream and chats with the other Attendees on the Mainstage page, where the attendees are viewing the live broadcast.
+
+## 🌊 The tides (challenges) I sailed across this GSoC season 🌊
+1. Decide how to develop the project wether to develop it as an npm module, or Git Submodule or independent repository.
+2. Implement a secure role based access.
+3. Dockerizing the Superprofile - FaunaDB.
+4. Figuring out how to initialize the Open Event Server with some dummy data.
+5. Exploring the huge codebase of Open Event Server to figure out how it works.
+
+## 🔮 Challenges in the future bag 🔮
+1. Improving the NextJS docker files.
+2. Adding event email notification.
+3. Improving the documentations.
+4. Enhancing the Admin Dashboard.
+5. Providing event stream analytics.
+
+## 🔗Additional Links🔗
+Link to Rocket Chat GSoC'22 [Demo Day slides](https://docs.google.com/presentation/d/1_fevhXOHLVgbhaOFGL40FDgPPUiWbhO1g5cFrJCGCF8/edit?usp=sharing).
+
+
+
