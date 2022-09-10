@@ -90,17 +90,33 @@ An open source scaled virtual conferences creation, management, and operation sy
 ### Creaating a Event
 All the data recieved from the Event basic details form are used for mutating the Open Event Server with Event Details.
 
+https://user-images.githubusercontent.com/61188295/189488217-b5ce263a-64f6-485d-a65c-5b382ca239ec.mp4
+
+
 ### Admin Dashboard
 A walkthrough of the options available on the Admin Dashboard.
+
+https://user-images.githubusercontent.com/61188295/189488229-efa583e2-2001-4d7e-9983-798681c3c16a.mp4
+
 
 ### Event Display Poster Page
 Features available on the Event Poster page, with many different tabs viz. About, Sessions, and Speakers.
 
+https://user-images.githubusercontent.com/61188295/189488239-0aa31cf8-a8fe-42bf-95ab-65c9f03797b2.mp4
+
+
 ### Demo of Role based access to different day of event pages
 As shown in demo a not signed in user won't be able to access either the __Mainstage__ or __Greenroom__ page.
 
+https://user-images.githubusercontent.com/61188295/189488258-b0e8535a-c7f6-4174-84d6-c3d93e92c484.mp4
+
+
 ### Demo of the Speaker Greenroom Page and the Mainstage page
 Demo includes how an Admin starts the live stream and chats with the other Attendees on the Mainstage page, where the attendees are viewing the live broadcast.
+
+https://user-images.githubusercontent.com/61188295/189488270-5a33ede0-9a8b-40ad-9604-1d4d4fb6ec31.mp4
+
+
 
 ## 🌊 The tides (challenges) I sailed across this GSoC season 🌊
 1. Decide how to develop the project wether to develop it as an npm module, or Git Submodule or independent repository.
