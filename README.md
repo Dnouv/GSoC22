@@ -3,18 +3,26 @@
 [<img alt="alt_text" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />](https://github.com/RocketChat/RC4Conferences)
 
 </div>
-
+<div align="center">
+  
 # 🦄 Rocket Chat for Virtual Conferences 🦄
-Hello, there! This repo is dedicated for final work report submission for the Google Summer of Code - 2022. And would give a brief overview of all the PRs, issues and also the various featured implemented during this season.
+</div>
+  Hello, there! This repo is dedicated for final work report submission for the Google Summer of Code - 2022. And would give a brief overview of all the PRs, issues and also the various featured implemented during this season.
+
+<div align="center">
 
 ## 🖇️Links to the deployed demo website🖇️
+</div>
+
 1. [HomePage](https://conf.rceng.shop)
 2. [Demo Day Event](https://conf.rceng.shop/conferences/c/1)
 
 <!-- ![](https://github.githubassets.com/images/modules/logos_page/Octocat.png) -->
 
+<div align="center">
 
 ## 🚀 More about Rocket Chat for Virtual Conferences [RC4Conferences] 😮
+</div>
 An open source scaled virtual conferences creation, management, and operation system. It aims to enable online communities to easily run and host virtual events of any size. Built over contemporary ReactJS components with full stack behaviors, powered by NextJS. This project leverages FOSS Asia's excellent open source Event-yay server backend for conference creation and management. For day of conference operations, this project leverage open source Jitsi video's broadcast capability to an RTMP-forest for scaled consumption while embedded Rocket.Chat enables attendees and speakers to mingle and collaborate freely – with full persistent chat history.
 
 <div align="center">
@@ -85,7 +93,10 @@ An open source scaled virtual conferences creation, management, and operation sy
 ----
 </div>
 
+<div align="center">
+
 ## 📹 Some Feature Demo Clips 📹
+</div>
 
 ### Creaating a Event
 All the data recieved from the Event basic details form are used for mutating the Open Event Server with Event Details.
@@ -117,22 +128,33 @@ Demo includes how an Admin starts the live stream and chats with the other Atten
 https://user-images.githubusercontent.com/61188295/189488270-5a33ede0-9a8b-40ad-9604-1d4d4fb6ec31.mp4
 
 
+<div align="center">
 
 ## 🌊 The tides (challenges) I sailed across this GSoC season 🌊
+</div>
+
 1. Decide how to develop the project wether to develop it as an npm module, or Git Submodule or independent repository.
 2. Implement a secure role based access.
 3. Dockerizing the Superprofile - FaunaDB.
 4. Figuring out how to initialize the Open Event Server with some dummy data.
 5. Exploring the huge codebase of Open Event Server to figure out how it works.
 
+<div align="center">
+
 ## 🔮 Challenges in the future bag 🔮
+</div>
+
 1. Improving the NextJS docker files.
 2. Adding event email notification.
 3. Improving the documentations.
 4. Enhancing the Admin Dashboard.
 5. Providing event stream analytics.
 
+<div align="center">
+
 ## 🔗Additional Links🔗
+  
+</div>
 Link to Rocket Chat GSoC'22 [Demo Day slides](https://docs.google.com/presentation/d/1_fevhXOHLVgbhaOFGL40FDgPPUiWbhO1g5cFrJCGCF8/edit?usp=sharing).
 
 
