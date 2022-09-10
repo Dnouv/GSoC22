@@ -98,7 +98,7 @@ An open source scaled virtual conferences creation, management, and operation sy
 ## 📹 Some Feature Demo Clips 📹
 </div>
 
-### Creaating a Event
+### Creating a Event
 All the data recieved from the Event basic details form are used for mutating the Open Event Server with Event Details.
 
 https://user-images.githubusercontent.com/61188295/189488217-b5ce263a-64f6-485d-a65c-5b382ca239ec.mp4
@@ -155,7 +155,8 @@ https://user-images.githubusercontent.com/61188295/189488270-5a33ede0-9a8b-40ad-
 ## 🔗Additional Links🔗
   
 </div>
-Link to Rocket Chat GSoC'22 [Demo Day slides](https://docs.google.com/presentation/d/1_fevhXOHLVgbhaOFGL40FDgPPUiWbhO1g5cFrJCGCF8/edit?usp=sharing).
+
+Link to Rocket Chat GSoC'22 [Demo Day slides](https://docs.google.com/presentation/d/1_fevhXOHLVgbhaOFGL40FDgPPUiWbhO1g5cFrJCGCF8/edit?usp=sharing) .
 
 
 
