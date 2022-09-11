@@ -1,6 +1,9 @@
 <div align="center">
 
+[<img alt="alt_text" width="95px" src="https://user-images.githubusercontent.com/61188295/189516421-c5f7caf9-a8ab-48ec-a8d7-f36a6d9a2040.png" />](https://github.com/RocketChat/RC4Conferences)
 [<img alt="alt_text" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />](https://github.com/RocketChat/RC4Conferences)
+
+Rocket Chat for Virtual Conferences Project in GSoC 2022
 
 </div>
 <div align="center">
