@@ -144,7 +144,7 @@ https://user-images.githubusercontent.com/61188295/189488258-b0e8535a-c7f6-4174-
 
 ### Demo of the Speaker Greenroom Page and the Mainstage page
 Demo includes how an Admin starts the live stream and chats with the other Attendees on the Mainstage page, where the attendees are viewing the live broadcast.
-The Greenroom page deploys an Jitsi call, which handles all the video and audio processing and transmission to the RTMP server, which is later on broadcasted on the Mainstage Page, both the pages has an RocketChat Embedded Chat window to interact with each other during the event.
+The Greenroom page deploys an Jitsi call, which handles all the video and audio processing and transmission using RTMP which is later on broadcasted on the Mainstage Page, both the pages has an RocketChat Embedded Chat window to interact with each other during the event.
 
 https://user-images.githubusercontent.com/61188295/189488270-5a33ede0-9a8b-40ad-9604-1d4d4fb6ec31.mp4
 
@@ -154,7 +154,7 @@ https://user-images.githubusercontent.com/61188295/189488270-5a33ede0-9a8b-40ad-
 ## 🌊 The tides (challenges) I sailed across this GSoC season 🌊
 </div>
 
-1. Decide how to develop the project wether to develop it as an npm module, or Git Submodule or independent repository.
+1. Decide how to develop the project whether to develop it as an npm module, or Git Submodule or independent repository.
 2. Implement a secure role based access.
 3. Dockerizing the Superprofile - FaunaDB.
 4. Figuring out how to initialize the Open Event Server with some dummy data.
