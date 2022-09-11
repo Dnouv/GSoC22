@@ -38,7 +38,7 @@ An open source scaled virtual conferences creation, management, and operation sy
 - Event Create Component - Component which helps to mutate the Open Event Server with Event Data, and Speakers data.
 - Event Display Component - Component that diplays the events created based on the event id, and includes different tabs viz. About, Sessions, Speakers
 - Event Admin Dashboard Component - A set of component which enables the event creator/admin to edit and delete events and event related data, currently only speakers details can be edited.
-- Day of Event Components - A jitsi window component to catch the streams of Speakers, and broadcast them to the RTMP server, the second component was to catch this stream and broadcast it to the Event attendees.
+- Day of Event Components - A jitsi window component to catch the streams of Speakers, and broadcast them using RTMP to the second component which did the task of catching this stream and broadcast it to the Event attendees.
 
 Some wonderful features suggested by Mentors:
 - Integration with Superprofile for a better role based access to different user routes.
